@@ -17,7 +17,7 @@ function BioCard() {
                     <li className="list-group-item">512-296-3234</li>
                 </ul>
             </div>
-            <p className="card-text ms-2"> My name is Walter McCone, I am currently a coding student at the Coding
+            <p className="card-text ms-2"> My name is Walter McCone, I recently completed the Coding
             Bootcamp at the University of Texas.
             I have 10+ years in the SaaS industry with 8 of those years in recruiting software.
 

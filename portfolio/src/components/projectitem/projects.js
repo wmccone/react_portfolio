@@ -1,6 +1,7 @@
 import React from "react";
-import Row from "../components/Row";
-import Col from "../components/Col";
+import Row from "../Row";
+import Col from "../Col";
+import Container from "../Container"
 
 function Projects(props) {
     return (
