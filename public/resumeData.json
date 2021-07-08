@@ -1,36 +1,31 @@
 {
   "main": {
-    "name":"Walter McCone's Engineering Portfolio",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Walter McCone",
+    "description":"Full Stack Engineer and Sales Person. I have 10+ years in the SaaS industry with 9 of those years in recruiting software.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"My name is Walter McCone, I am currently a coding student at the Coding Bootcamp at the University of Texas. I have 10+ years in the SaaS industry with 8 of those years in recruiting software. I currently work for a Company called CareerPlug. CareerPlug’s innovative hiring solutions help over 10,000 companies attract, evaluate and retain high-quality team members. CareerPlug provides recruiting software to help small, medium and franchise businesses hire top talent. While I am currently a Sales person at CareerPlug, I look forward to growing my skillsets in the software industry as I learn to code. I hope that one day I will be able to code full",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "email": "gerrymccone88@gmail.com",
+    "phone": "",
+    "github":"https://github.com/wmccone",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"",
+      "city":"Austin",
+      "state":"Texas",
+      "zip": "78758"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/walter.mccone",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/walter-mccone/",
         "className":"fa fa-linkedin"
       },
       {
@@ -40,49 +35,49 @@
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/wmccone",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of Texas - Austin",
+        "degree":"Full Stack Web Development Bootcamp",
+        "graduated":"June 2021",
+        "description":"Completed an intensive 24-week coding bootcamp in which I learned about various web technologies from the MERN Stack as well as other technologies integral to the foundations of Software Engineering."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Texas State University",
+        "degree":"Bachelors in Business Administration & Marketing",
+        "graduated":"2011",
+        "description":""
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"CareerPlug, LLC.",
+        "title":"Strategic Account Executive & Territory Consultant",
+        "years":"August 2012 - Present",
+        "description":"My role as a Strategic Account Manager consists of maintaining and growing the relationship between CareerPlug and our largest client. While there is a sales component, my main focus is working with over 500+ territory leaders to help their market understand the CareerPlug software and the hiring strategies needed to hire the right talent."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Yodle",
+        "title":"Sales Development Representative",
+        "years":"June 2011 - June 2012",
+        "description":""
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
+        "name":"Javascript",
+        "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"HTML",
+        "level":"100%"
       },
       {
         "name":"ReactJs",
@@ -93,15 +88,15 @@
         "level":"90%"
       },
       {
-        "name":"PHP",
-        "level":"80%"
+        "name":"Ruby",
+        "level":"20%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"Ruby on Rails",
+        "level":"10%"
       },
       {
-        "name":"JAVA",
+        "name":"SQL & NoSQL",
         "level":"80%"
       }
     ]
@@ -137,48 +132,6 @@
         "category":"(MVP Only) A React and Meteor based chat University project.",
         "image":"05.jpg",
         "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
       }
     ]
   }
