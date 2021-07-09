@@ -3,7 +3,7 @@
     "name":"Walter McCone",
     "description":"Full Stack Engineer and Sales Person. I have 10+ years in the SaaS industry with 9 of those years in recruiting software.",
     "image":"profilepic.jpg",
-    "bio":"My name is Walter McCone, I am currently a coding student at the Coding Bootcamp at the University of Texas. I have 10+ years in the SaaS industry with 8 of those years in recruiting software. I currently work for a Company called CareerPlug. CareerPlug’s innovative hiring solutions help over 10,000 companies attract, evaluate and retain high-quality team members. CareerPlug provides recruiting software to help small, medium and franchise businesses hire top talent. While I am currently a Sales person at CareerPlug, I look forward to growing my skillsets in the software industry as I learn to code. I hope that one day I will be able to code full",
+    "bio":"My name is Walter McCone, I recently completed the Coding Bootcamp at the University of Texas. I have 10+ years in the SaaS industry with 8 of those years in recruiting software. While I am currently a Sales person, I look forward to growing my skillsets in the software industry as I learn to code. I hope that one day I will be able to code as a full time engineer.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "gerrymccone88@gmail.com",
     "phone": "(512) 296-3234",
@@ -30,7 +30,7 @@
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/texstea/?hl=en",
         "className":"fa fa-instagram"
       },
       {
