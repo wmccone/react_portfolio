@@ -6,17 +6,17 @@
     "bio":"My name is Walter McCone, I am currently a coding student at the Coding Bootcamp at the University of Texas. I have 10+ years in the SaaS industry with 8 of those years in recruiting software. I currently work for a Company called CareerPlug. CareerPlug’s innovative hiring solutions help over 10,000 companies attract, evaluate and retain high-quality team members. CareerPlug provides recruiting software to help small, medium and franchise businesses hire top talent. While I am currently a Sales person at CareerPlug, I look forward to growing my skillsets in the software industry as I learn to code. I hope that one day I will be able to code full",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "gerrymccone88@gmail.com",
-    "phone": "",
+    "phone": "(512) 296-3234",
     "github":"https://github.com/wmccone",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/wmccone/react_portfolio",
     "address":{
       "street":"",
       "city":"Austin",
       "state":"Texas",
       "zip": "78758"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://wmccone.github.io/Walter_McCone-Professional-Portfolio/",
+    "resumedownload":"https://wmccone.github.io/Walter_McCone-Professional-Portfolio/assets/WalterMcConeResume2021.pdf",
     "social":[
       {
         "name":"facebook",
@@ -104,34 +104,40 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
+        "title":"WeatherTunes",
+        "category":"Music for your Local Weather",
+        "image":"weathertunes.png",
         "url":"https://www.canadianwanderlust.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Frienemies",
+        "category":"A social networking site you can befriend people that have interests different than yours",
+        "image":"frienemies.png",
+        "url":"https://damp-thicket-88352.herokuapp.com/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Hiking.Pro",
+        "category":"Find local hiking trails quickly and easily",
+        "image":"hikingpro.png",
+        "url":"https://fathomless-sands-64382.herokuapp.com/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"TechBlog",
+        "category":"A website you can write blogs and read blogs from other users",
+        "image":"techblog.png",
+        "url":"https://calm-stream-37820.herokuapp.com/"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Fitness Tracker",
+        "category":"An app to help you track your workouts over time",
+        "image":"workouttracker.png",
+        "url":"hhttps://ancient-atoll-51015.herokuapp.com/"
+      },
+      {
+        "title":"Budget Tracker",
+        "category":"An app to help you track your budget over time",
+        "image":"budgettracker.png",
+        "url":"https://fierce-lake-02497.herokuapp.com/"
       }
     ]
   }
